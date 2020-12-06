@@ -1,116 +1,110 @@
 BasicInfo:
-  FirstName: Inês
-  LastName: Almeida
-  Photo: img/avatar.jpg
+  FirstName: Nguyễn Việt
+  LastName: Tú
+  Photo: img/avatar2.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info: +44 123 456 789
+      Info: +84 0944 078 129
     - Icon: fas fa-envelope
-      Info: contact@ines-almeida.com
+      Info: nguyenviettu238@gmail.com
     - Icon: fas fa-globe
-      Info: ines-almeida.com
+      Info: toai-nguyet-chuong.netlify.app
     - Icon: fas fa-map-marker-alt
-      Info: Portugal
+      Info: Hanoi, Vietnam
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: A developer with <i>2.5 years of experience in Backend developer</i> and <i>1 year of experience in Blockchain developer</i> with good knowledge of researching, analyzing and developing systems. Enjoy researching new technology and aim to become a technology expert.
 
 Experience:
-  - Employer: Super Cool Company
-    Place: Oxford, UK
+  - Employer: Phieu Vu Mon
+    Place: Hanoi, Vietnam
     Positions:
-      - Title: Software Engineer
-        Date: Jan 2020 - Present
+      - Title: Full stack developer
+        Date: Aug 2020 - Present
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Tester
-        Date: Mar 2019 - Jan 2020
-        Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
+          - Become the only Developer in the team in charge of all IT related tasks.
+          - System analysis, design, development and operation.
+          - Research new technologies to simplify programming.
+        Projects:
+          - Leadfinex - Binance's partner broker exchange.
+          - King Arthur bot - Telegram bot notify order.
+          - Signal bot.
+          - Back trade system.
+        Badges: ['NodeJS', 'TypeScript', 'ReactJS', 'DevOps', 'PostgreSQL', 'Redis', 'Websocket', 'Microservice', 'Grpc', 'Google Cloud','JAMstack', 'Hexo', 'Hugo', 'Netlify CMS']
+  - Employer: Midas Protocol
+    Place: Hanoi, Vietnam
     Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
+      - Title: Backend developer
+        Date: Sep 2019 - Jul 2020
         Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
+          - Research cryptocurrency about their cryptography and protocols, then integrate them to Midas Wallet Core.
+          - Design, development and maintence backend system.
+        Projects:
+          - Midas Wallet core - Core library of Crypto wallet.
+          - Midas Gateway - Gateway API for connecting to many Crypto chain.
+          - God of Go - Dapp Go game.
+        Badges: ['C++', 'Kotlin', 'NodeJs', 'MySQL', 'Redis', 'Socket.io', 'Cryptography']
+  - Employer: Septeni Technology
+    Place: Hanoi, Vietnam
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Developer
+        Date: Jun 2018 - Aug 2019
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+          - Design and implement ads services system for parent company.
+          - Research and re-present technology.
+        Projects:
+          - Adla - Report / structure of ads collected through ad media API.
+          - Pyxis - Automate rules for running ads on Ad media.
+        Badges: ['Scala', 'Play Framework', 'Functional Programming', 'Domain Driven Design', 'NodeJS', 'AWS', 'Scrum']
 
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+  - Course: Bachelor of Information Technology
+    Place: University of Engineering and Technology
+    Date: Aug 2015 - Jun 2019
 
 Skills:
   - Family: Programming
     Items:
-      - Python
-      - HTML (including Jinja)
-      - Javascript
-      - CSS
-      - SASS
-      - SQL
-      - C#
-      - Bash
-      - MATLAB
+      - Javascript (NodeJS, TypeScript, ES6)
+      - Scala
+      - C++
+      - Kotlin
   - Family: Frameworks
     Items:
-      - Django
-      - Flask
-      - Hugo
+      - Loopback
+      - Express
       - React
+      - CMake
+      - Play
+      - Hyperledger Fabric
+      - Hugo
+      - Hexo
   - Family: Developer Tools
     Items:
       - Git
       - Docker
-      - Jenkins
+      - Google Cloud
       - AWS
   - Family: Misc
     Items:
-      - Adobe Tools
-      - LaTeX
+      - Html
+      - Css
+      - Markdown
 
 Languages:
-  - Name: Portuguese
+  - Name: Vietnamese
     Level: Native
   - Name: English
-    Level: C2
-  - Name: Spanish
-    Level: B1
-  - Name: German
-    Level: B1
+    Level: B2
 
 Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
+  - Happiness Advantage Camp - TGM Group (2019)
+  - Know Thyself and Know Others with Carl Jung - TGM Group (2019)
+  - Live and Aspire - TGM Group (2018)
+  - Certificate of completion course Hajame, Nobori - Akira center (2018)
+  - English For Life - Singapore Internatinal Academy (2016)
 
 Interests:
-  - Bouldering
-  - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
-  - Languages
+  - Researching
+  - Personal development
+  - Reading
+  - Gaming
