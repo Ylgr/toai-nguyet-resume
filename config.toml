@@ -1,13 +1,13 @@
 baseURL = "https://example.com/"
 languageCode = "en-us"
 theme = "almeida-cv"
-title = "Example - CV"
+title = "Toai Nguyet - CV"
 
 [params]
 colorDark = "#666"
 colorLight = "#fff"
 colorPageBackground = "#ddd"
-colorPrimary = "#e3bfb8"
+colorPrimary = "#666"
 colorPrimaryText = "#fff"
 colorRightColumnBackground = "#f5f5f5"
 colorSecondary = "#aaa"
