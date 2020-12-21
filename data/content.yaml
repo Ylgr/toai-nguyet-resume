@@ -9,6 +9,8 @@ BasicInfo:
       Info: nguyenviettu238@gmail.com
     - Icon: fas fa-globe
       Info: toai-nguyet-chuong.netlify.app
+    - Icon: fab fa-github
+      Info: github.com/Ylgr
     - Icon: fas fa-map-marker-alt
       Info: Hanoi, Vietnam
 
