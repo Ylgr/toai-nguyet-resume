@@ -8,20 +8,20 @@ BasicInfo:
     - Icon: fas fa-envelope
       Info: nguyenviettu238@gmail.com
     - Icon: fas fa-globe
-      Info: toai-nguyet-chuong.netlify.app
+      Info: whyelsetheyare.tk
     - Icon: fab fa-github
       Info: github.com/Ylgr
     - Icon: fas fa-map-marker-alt
       Info: Hanoi, Vietnam
 
-Profile: A developer with <i>2.5 years of experience in Backend developer</i> and <i>1 year of experience in Blockchain developer</i> with good knowledge of researching, analyzing and developing systems. Enjoy researching new technology and aim to become a technology expert.
+Profile: A developer with <i>3 years of experience in Backend developer</i> and <i>1.5 years of experience in Blockchain developer</i> with good knowledge of researching, analyzing and developing systems. Enjoy researching new technology and aim to become a technology expert.
 
 Experience:
   - Employer: Phieu Vu Mon
     Place: Hanoi, Vietnam
     Positions:
       - Title: Full stack developer
-        Date: Aug 2020 - Present
+        Date: Aug 2020 - Dec 2020
         Details:
           - Become the only Developer in the team in charge of all IT related tasks.
           - System analysis, design, development and operation.
@@ -66,6 +66,7 @@ Education:
 Skills:
   - Family: Programming
     Items:
+      - Solidity
       - Javascript (NodeJS, TypeScript, ES6)
       - Scala
       - C++
@@ -77,6 +78,7 @@ Skills:
       - React
       - CMake
       - Play
+      - Truffle
       - Hyperledger Fabric
       - Hugo
       - Hexo
