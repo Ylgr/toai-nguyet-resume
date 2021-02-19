@@ -29,9 +29,8 @@ Experience:
         Projects:
           - Leadfinex - Binance's partner broker exchange.
           - King Arthur bot - Telegram bot notify order.
-          - Signal bot.
           - Back trade system.
-        Badges: ['NodeJS', 'TypeScript', 'ReactJS', 'DevOps', 'PostgreSQL', 'Redis', 'Websocket', 'Microservice', 'Grpc', 'Google Cloud','JAMstack', 'Hexo', 'Hugo', 'Netlify CMS']
+        Badges: ['NodeJS', 'TypeScript', 'ReactJS', 'PostgreSQL', 'Redis', 'Microservice', 'Grpc', 'Hugo', 'Netlify CMS']
   - Employer: Midas Protocol
     Place: Hanoi, Vietnam
     Positions:
@@ -43,6 +42,7 @@ Experience:
         Projects:
           - Midas Wallet core - Core library of Crypto wallet.
           - Midas Gateway - Gateway API for connecting to many Crypto chain.
+          - Midas Touch - Staking Crypto app.
           - God of Go - Dapp Go game.
         Badges: ['C++', 'Kotlin', 'NodeJs', 'MySQL', 'Redis', 'Socket.io', 'Cryptography']
   - Employer: Septeni Technology
@@ -66,8 +66,8 @@ Education:
 Skills:
   - Family: Programming
     Items:
-      - Solidity
       - Javascript (NodeJS, TypeScript, ES6)
+      - Solidity
       - Scala
       - C++
       - Kotlin
@@ -79,9 +79,7 @@ Skills:
       - CMake
       - Play
       - Truffle
-      - Hyperledger Fabric
       - Hugo
-      - Hexo
   - Family: Developer Tools
     Items:
       - Git
@@ -108,7 +106,6 @@ Diplomas:
   - English For Life - Singapore Internatinal Academy (2016)
 
 Interests:
-  - Researching
+  - Technical Researching
   - Personal development
-  - Reading
   - Gaming
