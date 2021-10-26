@@ -65,7 +65,8 @@ Education:
 Skills:
   - Family: Programming
     Items:
-      - Javascript (NodeJS, TypeScript, ES6)
+      - Javascript
+      - Typescript
       - Rust
       - Solidity
       - Scala
@@ -74,9 +75,10 @@ Skills:
   - Family: Frameworks
     Items:
       - Substrate
-      - Truffle / hardhat
+      - Truffle
       - Solana program
-      - Loopback / Express / React
+      - Loopback
+      - React
       - CMake
       - Play
   - Family: Developer Tools
