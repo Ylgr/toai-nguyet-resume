@@ -55,7 +55,7 @@ Experience:
           - Midas Gateway - Gateway API for connecting to many Crypto chain.
           - Midas Touch - Staking Crypto app.
           - God of Go - Dapp Go game.
-        Badges: ['C++', 'Kotlin', 'NodeJs', 'MySQL', 'Redis', 'Socket.io', 'Cryptography']
+        Badges: ['C++', 'Kotlin', 'NodeJs', 'MySQL', 'Redis', 'Socket.io']
 
 Education:
   - Course: Bachelor of Information Technology
@@ -76,9 +76,7 @@ Skills:
       - Substrate
       - Truffle / hardhat
       - Solana program
-      - Loopback
-      - Express
-      - React
+      - Loopback / Express / React
       - CMake
       - Play
   - Family: Developer Tools
