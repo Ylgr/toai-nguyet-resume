@@ -49,7 +49,7 @@ Experience:
         Date: Sep 2019 - Jul 2020
         Details:
           - Research cryptocurrency about their cryptography and protocols, then integrate them to Midas's crypto wallet as Wallet core.
-          - Design, development and maintenance backend of blockchain related systems (crypto wallet, stake, game).
+          - Design, development and maintenance backend of blockchain related systems.
         Projects:
           - Midas Wallet core - Core library of Crypto wallet.
           - Midas Gateway - Gateway API for connecting to many Crypto chain.
