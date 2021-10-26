@@ -1,7 +1,7 @@
 BasicInfo:
   FirstName: Nguyễn Việt
   LastName: Tú
-  Photo: img/avatar2.jpg
+  Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
       Info: +84 0944 078 129
@@ -14,44 +14,42 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Hanoi, Vietnam
 
-Profile: A developer with <i>3 years of experience in Backend developer</i> and <i>2 years of experience in Blockchain developer</i> with good knowledge of researching, analyzing and developing systems. Enjoy researching new technology and aim to become a technology expert.
+Profile: A developer with <i>more than 3 years of experience in Backend development</i> and <i>more than 2 years of experience</i> in Blockchain development. Believe in the breakthrough of Blockchain like the Internet in the early 21st century. Like to research technology, solutions to technical problems. Aim to become a Blockchain expert
 
 Experience:
+  - Employer: Bein
+    Place: HCM, Vietnam
+    Positions:
+      - Title: Blockchain lead
+        Date: Sep 2021 - Now
+        Details:
+          - Leader of the company's blockchain team.
+          - Project has passed the IDO phase with more than 1000 investors.
+          - Research, propose and implement solutions to technical problems related to Blockchain.
+          - Plan and assign task to team members.
+        Projects:
+          - BIC - Utility for social blockchain.
+        Badges: ['Rust', 'Solidity', 'NodeJs' , 'Substrate', 'Solana', 'BSC']
   - Employer: Sotatek
     Place: Hanoi, Vietnam
     Positions:
       - Title: Blockchain developer
-        Date: Mar 2020 - Now
+        Date: Mar 2021 - Sep 2021
         Details:
-          - Team lead of projects building blockchain core.
+          - Leader of a Blockchain team in the company responsible for building the chain core.
           - Plan and assign task to team members.
-          - Write Smart Contracts.
-          - Research, design, develop and write documentation for Blockchain core.
+          - Research, propose and implement solutions to technical problems related to Blockchain.
         Projects:
-          - BHC - Blockchain core of a Defi OS.
-        Badges: ['NodeJS', 'Solidity', 'Go', 'Tendermint', 'Cosmos SDK', 'LevelDB']
-  - Employer: Phieu Vu Mon
-    Place: Hanoi, Vietnam
-    Positions:
-      - Title: Full stack developer
-        Date: Aug 2020 - Dec 2020
-        Details:
-          - Become the only Developer in the team in charge of all IT related tasks.
-          - System analysis, design, development and operation.
-          - Research new technologies to simplify programming.
-        Projects:
-          - Leadfinex - Binance's partner broker exchange.
-          - King Arthur bot - Telegram bot notify order.
-          - Back trade system.
-        Badges: ['NodeJS', 'TypeScript', 'ReactJS', 'PostgreSQL', 'Redis', 'Microservice', 'Grpc', 'Hugo', 'Netlify CMS']
+          - BHC - Blockchain of a Defi OS.
+        Badges: ['NodeJS', 'Rust', 'Solidity', 'Substrate', 'Tendermint', 'BSC']
   - Employer: Midas Protocol
     Place: Hanoi, Vietnam
     Positions:
       - Title: Backend developer
         Date: Sep 2019 - Jul 2020
         Details:
-          - Research cryptocurrency about their cryptography and protocols, then integrate them to Midas Wallet Core.
-          - Design, development and maintenance backend system.
+          - Research cryptocurrency about their cryptography and protocols, then integrate them to Midas's crypto wallet as Wallet core.
+          - Design, development and maintenance backend of blockchain related systems (crypto wallet, stake, game).
         Projects:
           - Midas Wallet core - Core library of Crypto wallet.
           - Midas Gateway - Gateway API for connecting to many Crypto chain.
@@ -68,20 +66,21 @@ Skills:
   - Family: Programming
     Items:
       - Javascript (NodeJS, TypeScript, ES6)
+      - Rust
       - Solidity
       - Scala
       - C++
       - Kotlin
-      - Go
   - Family: Frameworks
     Items:
+      - Substrate
+      - Truffle / hardhat
+      - Solana program
       - Loopback
       - Express
       - React
       - CMake
       - Play
-      - Truffle
-      - Cosmos SDK
   - Family: Developer Tools
     Items:
       - Git
@@ -108,5 +107,5 @@ Diplomas:
   - English For Life - Singapore Internatinal Academy (2016)
 
 Interests:
-  - Technical Researching
+  - Technical researching
   - Personal development
