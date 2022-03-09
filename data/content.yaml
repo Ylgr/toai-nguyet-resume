@@ -26,7 +26,6 @@ Experience:
           - Leader of the company's blockchain team.
           - The project has passed the IDO phase with more than 1000 investors and the total calling capital up to now is more than 11 million USD.
           - Research, propose and implement solutions to technical problems related to Blockchain.
-          - Plan and assign task to team members.
         Projects:
           - BIC - Utility for social blockchain.
         Badges: ['Rust', 'Solidity', 'NodeJs' , 'Substrate', 'Solana', 'BSC']
@@ -65,7 +64,7 @@ Education:
 Skills:
   - Family: Programming
     Items:
-      - Js/Ts
+      - JS/TS
       - Rust
       - Solidity
       - Scala
