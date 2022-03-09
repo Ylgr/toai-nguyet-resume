@@ -14,7 +14,7 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Hanoi, Vietnam
 
-Profile: A developer with <i>more than 3 years of experience in Backend development</i> and <i>more than 2 years of experience</i> in Blockchain development. Believe in the breakthrough of Blockchain like the Internet in the early 21st century. Like to research technology, solutions to technical problems. Aim to become a Blockchain expert
+Profile: A developer with <i>4 years of experience in Backend development</i> and <i>3 years of experience</i> in Blockchain development. Blockchain innovation is what I am passionate about to build a trustless world. Career goal is to become a Blockchain expert.
 
 Experience:
   - Employer: Bein
@@ -24,7 +24,7 @@ Experience:
         Date: Sep 2021 - Now
         Details:
           - Leader of the company's blockchain team.
-          - Project has passed the IDO phase with more than 1000 investors.
+          - The project has passed the IDO phase with more than 1000 investors and the total calling capital up to now is more than 11 million USD.
           - Research, propose and implement solutions to technical problems related to Blockchain.
           - Plan and assign task to team members.
         Projects:
@@ -65,7 +65,7 @@ Education:
 Skills:
   - Family: Programming
     Items:
-      - Javascript
+      - Js/Ts
       - Rust
       - Solidity
       - Scala
@@ -76,7 +76,7 @@ Skills:
       - Substrate
       - Truffle
       - Solana program
-      - Loopback
+      - NestJs
       - React
       - CMake
       - Play
@@ -96,7 +96,7 @@ Languages:
   - Name: Vietnamese
     Level: Native
   - Name: English
-    Level: B2
+    Level: Ielts 6.5
 
 Diplomas:
   - Happiness Advantage Camp - TGM Group (2019)
@@ -106,5 +106,5 @@ Diplomas:
   - English For Life - Singapore Internatinal Academy (2016)
 
 Interests:
-  - Technical researching
+  - Blockchain researching
   - Personal development
