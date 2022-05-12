@@ -84,17 +84,6 @@ Skills:
     Items:
       - React (NodeJs)
       - Android (Kotlin)
-  - Family: Developer Tools
-    Items:
-      - Git
-      - Docker
-      - Kong gateway
-      - JetBrains
-  - Family: Misc
-    Items:
-      - Html
-      - Css
-      - Markdown
 
 Languages:
   - Name: Vietnamese
