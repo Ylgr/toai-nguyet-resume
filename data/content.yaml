@@ -14,7 +14,7 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Hanoi, Vietnam
 
-Profile: A developer with <i>4 years of experience in Backend development</i> and <i>3 years of experience</i> in Blockchain development. Blockchain innovation is what I am passionate about to build a trustless world. Career goal is to become a Blockchain expert.
+Profile: A developer with <i>4 years of experience in Backend development</i> and <i>3 years of experience</i> in Blockchain development with good knowledge of Cryptography, Smart contract and Consensus model . Blockchain innovation is what I am passionate about. My career goal is to become a Blockchain expert.
 
 Experience:
   - Employer: Bein
@@ -24,10 +24,12 @@ Experience:
         Date: Sep 2021 - Now
         Details:
           - Leader of the company's blockchain team.
-          - The project has passed the IDO phase with more than 1000 investors and the total calling capital up to now is more than 11 million USD.
+          - The project has passed the IDO phase with more than 2000 investors and the total calling capital up to now is more than 11 million USD.
           - Research, propose and implement solutions to technical problems related to Blockchain.
+          - Support Backend team to build social networking products.
         Projects:
           - BIC - Utility for social blockchain.
+          - Bein comm - Social network (company's main product).
         Badges: ['Rust', 'Solidity', 'Typescript' , 'Substrate', 'Solana', 'BSC']
   - Employer: Sotatek
     Place: Hanoi, Vietnam
@@ -93,7 +95,7 @@ Languages:
   - Name: Vietnamese
     Level: Native
   - Name: English
-    Level: Ielts 6.5
+    Level: B2
 
 Diplomas:
   - Happiness Advantage Camp - TGM Group (2019)
