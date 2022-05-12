@@ -30,7 +30,7 @@ Experience:
         Projects:
           - BIC - Utility for social blockchain.
           - Bein comm - Social network (company's main product).
-        Badges: ['Rust', 'Solidity', 'Typescript' , 'Substrate', 'Solana', 'BSC']
+        Badges: ['Rust', 'Solidity', 'Typescript', 'NestJs' , 'Substrate', 'Solana', 'BSC']
   - Employer: Sotatek
     Place: Hanoi, Vietnam
     Positions:
@@ -42,7 +42,7 @@ Experience:
           - Research, propose and implement solutions to technical problems related to Blockchain.
         Projects:
           - BHC - Blockchain of a Defi OS.
-        Badges: ['NodeJS', 'Rust', 'Solidity', 'Substrate', 'Tendermint', 'BSC']
+        Badges: ['NodeJS', 'Rust', 'Solidity', 'Substrate', 'NestJs', 'Tendermint', 'BSC']
   - Employer: Midas Protocol
     Place: Hanoi, Vietnam
     Positions:
@@ -56,7 +56,7 @@ Experience:
           - Midas Gateway - Gateway API for connecting to many Crypto chain.
           - Midas Touch - Staking Crypto app.
           - God of Go - Dapp Go game.
-        Badges: ['C++', 'Kotlin', 'NodeJs', 'MySQL', 'Redis', 'Socket.io']
+        Badges: ['C++', 'Kotlin', 'NodeJs', 'Loopback', 'MySQL', 'Redis', 'Socket.io']
 
 Education:
   - Course: Bachelor of Information Technology
@@ -64,23 +64,26 @@ Education:
     Date: Aug 2015 - Jun 2019
 
 Skills:
-  - Family: Programming
+  - Family: Backend
     Items:
-      - JS/TS
-      - Rust
-      - Solidity
-      - Scala
-      - C++
-      - Kotlin
-  - Family: Frameworks
+      - NestJs (Typescript)
+      - Loopback (Typescript)
+      - Express (NodeJs)
+      - Play (Scala)
+  - Family: Smart contract
     Items:
-      - Substrate
-      - Truffle
-      - Solana program
-      - NestJs
-      - React
-      - CMake
-      - Play
+      - Truffle (Solidity)
+      - Solana program (Rust)
+  - Family: Chain core
+    Items:
+      - Substrate (Rust)
+  - Family: Wallet
+    Items:
+      - Trust wallet core (C++)
+  - Family: Other
+    Items:
+      - React (NodeJs)
+      - Android (Kotlin)
   - Family: Developer Tools
     Items:
       - Git
