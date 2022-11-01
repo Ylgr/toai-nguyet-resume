@@ -17,7 +17,7 @@ BasicInfo:
 Profile: I am a developer with <i>4 years of experience in Backend development</i> and <i>3 years of experience</i> in Blockchain development with good knowledge of Cryptography, Smart contract and Blockchain core development. Blockchain innovation is what I am passionate about. My career goal is to become a Blockchain expert.
 
 Experience:
-  - Employer: Beincomm
+  - Employer: Beincom
     Place: HCM, Vietnam
     Positions:
       - Title: Blockchain lead
@@ -29,7 +29,7 @@ Experience:
           - Support Backend team to build social networking products.
         Projects:
           - BIC - Decentralize utility of main product.
-          - Beincomm platform - Social network platform (main product).
+          - Beincom platform - Social network platform (main product).
         Badges: ['Rust', 'Solidity', 'Typescript', 'NestJs', 'Substrate', 'Solana', 'BSC']
   - Employer: Sotatek
     Place: Hanoi, Vietnam
