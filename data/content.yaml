@@ -14,7 +14,7 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Hanoi, Vietnam
 
-Profile: I am a developer with <i>4 years of experience in Backend development</i> and <i>3 years of experience</i> in Blockchain development with good knowledge of Cryptography, Smart contract and Blockchain core development. Blockchain innovation is what I am passionate about. My career goal is to become a Blockchain expert.
+Profile: I am a Blockchain developer has 4 years of experiences on development. Blockchain is a very growing field which makes me feel that researching and participating in its development is my passion. My career development goal is to become an expert in the field of Blockchain development.
 
 Experience:
   - Employer: Beincom
@@ -24,13 +24,13 @@ Experience:
         Date: Sep 2021 - Now
         Details:
           - Leader of the company's blockchain team.
-          - The project has passed the IDO phase with more than 2000 investors and the total calling capital up to now is more than 11 million USD.
+          - The project has passed the IDO phase with more than 2000 investors and the total calling capital up to now is more than 10 million USD.
           - Research, propose and implement solutions to technical problems related to Blockchain.
           - Support Backend team to build social networking products.
         Projects:
-          - BIC - Decentralize utility of main product.
           - Beincom platform - Social network platform (main product).
-        Badges: ['Rust', 'Solidity', 'Typescript', 'NestJs', 'Substrate', 'Solana', 'BSC']
+          - BIC - Blockchain utility of platform (include decentralize social, namespace, NFT marketplace).
+        Badges: ['Rust', 'Solidity', 'Typescript', 'NestJs', 'Substrate', 'Anchor', 'Solana', 'BSC']
   - Employer: Sotatek
     Place: Hanoi, Vietnam
     Positions:
@@ -38,7 +38,6 @@ Experience:
         Date: Mar 2021 - Sep 2021
         Details:
           - Leader of a Blockchain team in the company responsible for building the chain core.
-          - Plan and assign task to team members.
           - Research, propose and implement solutions to technical problems related to Blockchain.
         Projects:
           - BHC - Blockchain of a Defi OS.
@@ -54,9 +53,8 @@ Experience:
         Projects:
           - Midas Wallet core - Core library of Crypto wallet.
           - Midas Gateway - Gateway API for connecting to many Crypto chain.
-          - Midas Touch - Staking Crypto app.
-          - God of Go - Dapp Go game.
-        Badges: ['C++', 'Kotlin', 'NodeJs', 'Loopback', 'MySQL', 'Redis', 'Socket.io']
+          - Dapps - My mission is to develop some dapps on Mcashchain including Go game and token staking system.
+        Badges: ['C++', 'Kotlin', 'NodeJs', 'Loopback', 'Tron']
 
 Education:
   - Course: Bachelor of Information Technology
@@ -64,26 +62,29 @@ Education:
     Date: Aug 2015 - Jun 2019
 
 Skills:
-  - Family: Backend
+  - Family: Programming Language
     Items:
-      - NestJs (Typescript)
-      - Loopback (Typescript)
-      - Express (NodeJs)
-      - Play (Scala)
+      - Typescript
+      - Solidity
+      - Rust
+      - Scala
+      - Kotlin
+      - C++
   - Family: Smart contract
     Items:
-      - Truffle (Solidity)
-      - Solana program (Rust)
+      - Truffle
+      - Hardhat
+      - Anchor
   - Family: Chain core
     Items:
-      - Substrate (Rust)
+      - Substrate
   - Family: Wallet
     Items:
-      - Trust wallet core (C++)
+      - Trust wallet core
   - Family: Other
     Items:
-      - React (NodeJs)
-      - Android (Kotlin)
+      - NestJs
+      - React
 
 Languages:
   - Name: Vietnamese
