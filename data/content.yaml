@@ -64,20 +64,25 @@ Education:
 Skills:
   - Family: Programming Language
     Items:
-      - Typescript
+      - JS (TS/NodeJs)
       - Solidity
       - Rust
       - Scala
       - Kotlin
       - C++
-  - Family: Smart contract
+  - Family: Blockchain framework
     Items:
       - Truffle
       - Hardhat
       - Anchor
-  - Family: Chain core
-    Items:
       - Substrate
+  - Family: Opensource product
+    Items:
+      - Opensea
+      - ENS
+      - Lens protocol
+      - SPL
+      - Metaplex
   - Family: Wallet
     Items:
       - Trust wallet core
