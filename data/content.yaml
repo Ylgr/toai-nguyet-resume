@@ -4,33 +4,32 @@ BasicInfo:
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info: +84 0944 078 129
+      Info: +84 944 078 129
     - Icon: fas fa-envelope
       Info: nguyenviettu238@gmail.com
     - Icon: fas fa-globe
-      Info: whyelsetheyare.tk
+      Info: whyelsetheyare.com
     - Icon: fab fa-github
       Info: github.com/Ylgr
     - Icon: fas fa-map-marker-alt
       Info: Hanoi, Vietnam
 
-Profile: I am a Blockchain developer has 4 years of experiences on development. Blockchain is a very growing field which makes me feel that researching and participating in its development is my passion. My career development goal is to become an expert in the field of Blockchain development.
+Profile: I am a Blockchain developer has 5 years of experiences on development, including 4 years on Blockchain development. Blockchain challenges, both of technical and business are my motivation. I am always ready to learn new things and apply them to my work.
 
 Experience:
   - Employer: Beincom
-    Place: HCM, Vietnam
+    Place: Hanoi, Vietnam
     Positions:
-      - Title: Blockchain lead
+      - Title: Senior Blockchain developer
         Date: Sep 2021 - Now
         Details:
           - Leader of the company's blockchain team.
-          - The project has passed the IDO phase with more than 2000 investors and the total calling capital up to now is more than 10 million USD.
-          - Research, propose and implement solutions to technical problems related to Blockchain.
-          - Support Backend team to build social networking products.
+          - Building IDO phase for project that have more than 2000 investors and the total calling capital up to now is more than 10 million USD.
+          - Research, propose, training and implement solutions for both of technical and business problems related to Blockchain.
         Projects:
-          - Beincom platform - Social network platform (main product).
-          - BIC - Blockchain utility of platform (include decentralize social, namespace, NFT marketplace).
-        Badges: ['Rust', 'Solidity', 'Typescript', 'NestJs', 'Substrate', 'Anchor', 'Solana', 'BSC']
+          - Beincom platform - Social network platform using Blockchain as utility (SocialFi).
+          - BIC ecosystem - Blockchain products for SocialFi ecosystem (NFT, marketplace, DAO,...)
+        Badges: ['Solidity', 'Typescript', 'NestJs', 'Hardhat', 'Foundry', 'BNB chain', 'CRADL']
   - Employer: Sotatek
     Place: Hanoi, Vietnam
     Positions:
@@ -54,7 +53,7 @@ Experience:
           - Midas Wallet core - Core library of Crypto wallet.
           - Midas Gateway - Gateway API for connecting to many Crypto chain.
           - Dapps - My mission is to develop some dapps on Mcashchain including Go game and token staking system.
-        Badges: ['C++', 'Kotlin', 'NodeJs', 'Loopback', 'Tron']
+        Badges: ['C++', 'Kotlin', 'NodeJs', 'Loopback', 'Tron', 'Trust wallet core']
 
 Education:
   - Course: Bachelor of Information Technology
@@ -72,17 +71,16 @@ Skills:
       - C++
   - Family: Blockchain framework
     Items:
-      - Truffle
       - Hardhat
+      - Foundry
       - Anchor
       - Substrate
-  - Family: Opensource product
+  - Family: Chain
     Items:
-      - Opensea
-      - ENS
-      - Lens protocol
-      - SPL
-      - Metaplex
+      - EVM
+      - Solana
+      - Polkadot (Substrate)
+      - Cosmos (Cosmos SDK)
   - Family: Wallet
     Items:
       - Trust wallet core
@@ -103,7 +101,7 @@ Diplomas:
   - Know Thyself and Know Others with Carl Jung - TGM Group (2019)
   - Live and Aspire - TGM Group (2018)
   - Certificate of completion course Nobori - Akira center (2018)
-  - English For Life - Singapore Internatinal Academy (2016)
+#  - English For Life - Singapore Internatinal Academy (2016)
 
 Interests:
   - Future technology
