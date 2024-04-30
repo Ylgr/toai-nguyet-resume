@@ -27,7 +27,7 @@ Experience:
           - Building IDO phase for project that have more than 2000 investors and the total calling capital up to now is more than 12 million USD.
           - Research, propose, training and implement solutions for both of technical and business problems related to Blockchain.
         Projects:
-          - Beincom platform - Social network platform using Blockchain as utility (SocialFi).
+          - [Beincom](https://www.beincom.com) - Social network platform using Blockchain as utility (SocialFi).
           - BIC ecosystem - Blockchain products for SocialFi are focused on Major Adopters.
         Badges: ['Solidity', 'Typescript', 'NestJs', 'Hardhat', 'Foundry', 'BNB chain', 'CRADL']
   - Employer: Sotatek
@@ -39,7 +39,7 @@ Experience:
           - Leader of a Blockchain team in the company responsible for building the chain core.
           - Research, propose and implement solutions to technical problems related to Blockchain.
         Projects:
-          - BHC - Blockchain of a Defi OS.
+          - [Glitch finance](https://coinmarketcap.com/currencies/glitch) - Blockchain of a Defi OS.
         Badges: ['NodeJS', 'Rust', 'Solidity', 'Substrate', 'Tendermint', 'BSC']
   - Employer: Midas Protocol
     Place: Hanoi, Vietnam
@@ -50,7 +50,7 @@ Experience:
           - Research cryptocurrency about their cryptography and protocols, then integrate them to Midas's crypto wallet as Wallet core.
           - Design, development and maintenance backend of blockchain related systems.
         Projects:
-          - Midas Wallet core - Core library of Crypto wallet.
+          - [Midas Wallet core](https://midasprotocol.io) - Core library of Crypto wallet.
           - Midas Gateway - Gateway API for connecting to many Crypto chain.
           - God of Go - Go game using Blockchain for betting.
         Badges: ['C++', 'Kotlin', 'NodeJs', 'Loopback', 'Tron', 'Trust wallet core']
